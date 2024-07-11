@@ -118,7 +118,7 @@ Start the Tomcat server.
 
 Access the application:
 
-Open a web browser and navigate to http://localhost:8080/student-management.
+Open a web browser and navigate to (http://localhost:8080/studentCRUDApp/).
 Use the provided forms and links to perform CRUD operations.
 Code Conventions and Comments
 The code follows standard Java coding conventions.
