@@ -42,7 +42,7 @@ Clone this repository to your local machine using the command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/student-management.git
+git clone https://github.com/datteshkumarpallapu/dattesh_student_management_crud_operation
 
 
 Import the project:
